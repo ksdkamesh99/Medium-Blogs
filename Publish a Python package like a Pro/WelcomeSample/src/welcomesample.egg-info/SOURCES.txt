@@ -1,0 +1,11 @@
+README.md
+setup.py
+WelcomeSample/src/welcomesample.egg-info/PKG-INFO
+WelcomeSample/src/welcomesample.egg-info/SOURCES.txt
+WelcomeSample/src/welcomesample.egg-info/dependency_links.txt
+WelcomeSample/src/welcomesample.egg-info/top_level.txt
+WelcomeSample/src/welcomesample.py
+WelcomeSample/src/welcomesample.egg-info/PKG-INFO
+WelcomeSample/src/welcomesample.egg-info/SOURCES.txt
+WelcomeSample/src/welcomesample.egg-info/dependency_links.txt
+WelcomeSample/src/welcomesample.egg-info/top_level.txt

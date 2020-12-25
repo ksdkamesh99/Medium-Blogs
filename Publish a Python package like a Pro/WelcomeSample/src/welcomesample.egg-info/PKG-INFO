@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: welcomesample
+Version: 0.0.1
+Summary: A Sample Welcome message Package
+Home-page: https://github.com/ksdkamesh99/Medium-Blogs/tree/master/Publish%20a%20Python%20package%20like%20a%C2%A0Pro/WelcomeSample
+Author: Kota Sai Durga Kamesh
+Author-email: ksdkamesh99@gmail.com
+License: UNKNOWN
+Description: # WelcomeSample
+        
+        This is a welcome package which prints a welcome message
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
